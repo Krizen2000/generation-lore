@@ -1,0 +1,15 @@
+QMainWindow#Ui_Main_Window {
+    border-radius: 3px;
+}
+
+QWidget#action_panel {
+    background-color: #242423;
+}
+
+QWidget#application_panel {
+    background-color: #E1E1E1;
+}
+
+QMessageBox {
+    background-color: #E1E1E1
+}

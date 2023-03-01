@@ -1,0 +1,48 @@
+QWidget#Ui_Doc_Obs_View_Application_Panel {
+    /* color: #FE5D9F; */
+    /* background-color: #FE5D9F; */
+}
+
+QWidget#title_bar {
+    /* color: #FE5D9F */
+    /* background-color: #FE5D9F; */
+}
+
+QFrame {
+    color: #242423;
+}
+
+QVBoxLayout#panel_layout {
+    background-color: #FE5D9F;
+} 
+
+QPushButton#back_btn {
+    background-color: #E1E1E1;
+    border-radius: 0px;
+}
+
+QPushButton#minimize_btn {
+    background-color: #E1E1E1;
+    color: #FE5D9F;
+    border-radius: 0px;
+}
+
+QPushButton#maximize_btn {
+    background-color: #E1E1E1;
+    color: #FE5D9F;
+    border-radius: 0px;
+}
+
+QPushButton#exit_btn {
+    background-color: #FE5D9F;
+    border-radius: 0px
+}
+
+QLabel {
+    color: #242423;
+}
+
+QPlainTextEdit {
+    color: #242423;
+    background-color: #F3F3F3;
+}

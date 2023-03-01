@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=65.3","wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genlore"
+version = "0.1.0"
+authors = [
+  { name="Ashly", email="krizenknoz@gmail.com" },
+]
+description = "An application which can create stories and summaries"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3.10",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+  "pyside6>=6.3.1",
+  "tensorflow>=2.9.1",
+  "transformers[tf-cpu]>=4.21.2",
+  "weasyprint>=56.1",
+  "nltk>=3.7",
+]

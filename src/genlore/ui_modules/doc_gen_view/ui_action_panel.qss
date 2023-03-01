@@ -1,0 +1,23 @@
+QWidget#Ui_Doc_Gen_View_Action_Panel {
+    background-color: #242423;
+}
+
+QPushButton {
+    color: #FE5D9F;
+    text-align: left;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #242423;
+    background-color: #242423;
+}
+
+QPushButton#favourite_view_btn {
+    color: #242423;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FE5D9F;
+    background-color: #FE5D9F;
+}

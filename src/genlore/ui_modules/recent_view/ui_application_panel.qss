@@ -1,0 +1,42 @@
+QWidget#title_bar {
+    background-color: #E1E1E1;
+    border-color: #E1E1E1;
+    border-radius: 0px;
+}
+
+QFrame {
+    color: #242423;
+}
+
+QLabel {
+    color: #FE5D9F;
+}
+
+QLabel#view_name {
+    font-size: 32px;
+}
+
+
+
+QListWidget {
+    color: #FE5D9F;
+    background-color: #F3F3F3;
+}
+
+QLineEdit {
+    color: #FE5D9F;
+    background-color: #F3F3F3;
+}
+
+QPushButton#minimize_btn {
+    border-radius: 0px;
+}
+
+QPushButton#maximize_btn {
+    border-radius: 0px;
+}
+
+QPushButton#exit_btn {
+    border-radius: 0px;
+    background-color: #FE5D9F;
+}

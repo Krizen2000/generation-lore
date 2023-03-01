@@ -1,0 +1,17 @@
+content_records.db
+
+# Cache
+src/__pycache__
+src/genlore/__pycache__
+src/genlore/modules/__pycache__
+src/genlore/modules/db_module/__pycache__
+src/genlore/modules/story_module/__pycache__
+src/genlore/modules/summary_module/__pycache__
+
+src/genlore/ui_modules/__pycache__
+src/genlore/ui_modules/doc_gen_view/__pycache__
+src/genlore/ui_modules/doc_obs_view/__pycache__
+
+src/genlore/ui_modules/favourite_view/__pycache__
+src/genlore/ui_modules/list_view/__pycache__
+src/genlore/ui_modules/recent_view/__pycache__

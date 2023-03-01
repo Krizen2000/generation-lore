@@ -1,0 +1,46 @@
+QWidget#Ui_Doc_Gen_View_Application_Panel {
+    background-color: #E1E1E1;
+}
+
+QWidget#title_bar {
+    background-color: #E1E1E1;
+}
+
+QPushButton#back_btn {
+    background-color: #E1E1E1;
+    border-radius: 0px;
+}
+
+QPushButton#minimize_btn {
+    background-color: #E1E1E1;
+    border-radius: 0px;
+}
+
+QPushButton#maximize_btn {
+    background-color: #E1E1E1;
+    border-radius: 0px;
+}
+
+QPushButton#exit_btn {
+    background-color: #FE5D9F;
+}
+
+QLabel {
+    color: #242423;
+}
+
+QLineEdit {
+    color: #242423;
+    background-color: #F3F3F3;
+}
+
+QPlainTextEdit {
+    color: #242423;
+    background-color: #F3F3F3;
+}
+
+QPushButton#generate_btn {
+    border-radius: 3px;
+    color: #F3F3F3;
+    background-color: #FE5D9F;
+}

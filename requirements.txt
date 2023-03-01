@@ -1,0 +1,5 @@
+pyside6>=6.3.1
+nltk>=3.7
+tensorflow>=2.9.1
+transformers[tf-cpu]>=4.21.2
+weasyprint>=56.1

@@ -1,0 +1,24 @@
+QWidget#Ui_Recent_View_Action_Panel {
+    background-color: #e1e1e1;
+}
+
+QPushButton {
+    /* color: #A5C9CA; */
+    color: #FE5D9F;
+    text-align: left;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #242423;
+    background-color: #242423;
+}
+
+QPushButton#recent_view_btn {
+    color: #F3F3F3;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FE5D9F;
+    background-color: #FE5D9F;
+}

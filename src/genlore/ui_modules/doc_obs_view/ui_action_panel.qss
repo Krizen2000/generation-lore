@@ -1,0 +1,15 @@
+QWidget#Ui_Doc_Obs_View_Action_Panel {
+    /* background-color: #E1E1E1; */
+    background-color: #FE5D9F;
+}
+
+QPushButton {
+    color: #FE5D9F;
+    text-align: left;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #242423;
+    background-color: #242423;
+}
