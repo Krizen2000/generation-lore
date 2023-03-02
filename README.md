@@ -1,11 +1,11 @@
-# Introduction
+# Generation Lore
 
 - This project utilizes GPT-2 which has 128 million parameters to generate interesting stories and summaries for the user.
 - It supports English Inputs only
 - It can export or clipboard the generated story or temporarily store it for later reference.
 - Ui has been made in PySide6 which is supported in Windows, Linux, Mac OS.
 
-# Requirements
+## Requirements
 
 #### Minimum Requirements:
 
@@ -30,3 +30,10 @@
 3. Download the Project and "`pip install -r requirements.txt`"
 4. Run the `intialize.py` file
 5. Inside the project folder execute `pip install -e .`
+
+---
+
+### Screenshots
+
+![mainview](mainview.png)
+![storygen](storygen.png)
